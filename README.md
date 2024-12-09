@@ -11,6 +11,13 @@ Welcome to my GitHub portfolio! Below is a collection of my personal projects th
   A dynamic web app built with React that fetches and displays free games from an API.  
   Watch the project video demonstration [here](https://njit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e8b2f32-4278-41cf-b241-b230004081c0).
 
+- **[BitFit - Android Project](https://github.com/TsewangDSherpa/tds22-CS388-001/tree/Project6/Projects/BitFit)**  
+  An Android app that promotes fitness and wellness, where users can track their workouts, goals, and progress.
+
+- **[Android Mini Project Labs](https://github.com/TsewangDSherpa/tds22-CS388-001)**  
+  A collection of Android mini-projects and labs. Different branches contain various projects with demo GIFs for each mini project.  
+  Explore the different branches to see specific mini-projects and learn about their functionality.
+
 - **[Zombie Attack Game](https://sherpatsewang01.itch.io/zombieattacksprint3)**  
   A fun, fast-paced zombie attack game developed in Unity, available for play on Itch.io.
 
@@ -20,12 +27,7 @@ Welcome to my GitHub portfolio! Below is a collection of my personal projects th
 - **[AI-Segment Anything Model Finetuning](https://github.com/TsewangDSherpa/cs370-project)**  
   A machine learning project focused on finetuning the Segment Anything Model (SAM) for image segmentation tasks.
 
-- **[BitFit - Android Project](https://github.com/TsewangDSherpa/tds22-CS388-001/tree/Project6/Projects/BitFit)**  
-  An Android app that promotes fitness and wellness, where users can track their workouts, goals, and progress.
 
-- **[Android Mini Project Labs](https://github.com/TsewangDSherpa/tds22-CS388-001)**  
-  A collection of Android mini-projects and labs. Different branches contain various projects with demo GIFs for each mini project.  
-  Explore the different branches to see specific mini-projects and learn about their functionality.
 
 ## Getting Started
 
